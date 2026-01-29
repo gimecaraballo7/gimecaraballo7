@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1584" height="396" alt="gimena caraballo (2)" src="https://github.com/user-attachments/assets/02ade0b9-224a-4b41-8673-36fd8cb5cdd5" />
 
 <!--
 **gimecaraballo7/gimecaraballo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
